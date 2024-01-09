@@ -1,0 +1,13 @@
+nav{color: #FFF;
+    text-align: center;
+    font-family: Merriweather;
+    font-size: 32px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    text-align: center;
+background-image: url('/bi.png');
+background-repeat: no-repeat;
+background-size: width: 1320px;
+height: 600px;
+flex-shrink: 0;;}
