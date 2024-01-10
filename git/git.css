@@ -10,4 +10,38 @@ background-image: url('/bi.png');
 background-repeat: no-repeat;
 background-size: width: 1320px;
 height: 600px;
-flex-shrink: 0;;}
+flex-shrink: 0;;
+}
+h2{text-align: center;
+    color: #F00;
+text-align: center;
+font-family: Inter;
+font-size: 88px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+}
+h5{
+    color: #F00;
+text-align: center;
+font-family: Inter;
+font-size: 24px;
+font-style: normal;
+font-weight: 500;
+line-height: normal;
+h2{color: #F00;
+    text-align: center;
+    font-family: Inter;
+    font-size: 88px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;}
+    
+    h3{color: #070211;
+        font-family: Inter;
+        font-size: 48px;
+        font-style: normal;
+        font-weight: 700;
+        line-height: normal;
+    text-align: center;}
+}
